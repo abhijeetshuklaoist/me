@@ -51,23 +51,23 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Cognizant <span>2011-2015</span></h2>
-                        <p>Part of VCG UDT program. Which implemented a control mechanism on the available UDTs within the VCG business users. Analyse the requirement of each user as every use case was quite different and implement the use case. Testing the systems, releasing the features and getting the UAT sign-off.</p>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>Adobe <span>2015-2019</span></h2>
                         <p>Involved in engineering Adobe Target Recommendation which is part of Adobe Experience cloud SaaS. Gather the requirements from Product managers and break the high-level requirements to detailed tasks. Implement the requirements and test the code using unit testing and integration testing. Create the deployment scripts, plan and support the team during deployment.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Cognizant <span>2011-2015</span></h2>
+                        <p>Part of VCG UDT program. Which implemented a control mechanism on the available UDTs within the VCG business users. Analyse the requirement of each user as every use case was quite different and implement the use case. Testing the systems, releasing the features and getting the UAT sign-off.</p>
                       </div>
                     </div>
                   </article>
