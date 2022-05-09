@@ -13,7 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a seasoned Computer science professional. I have spent more than a decade in the industry solving business critical problems.</p>
+                    <p>I am a seasoned Computer science professional. I have spent more than a decade in the industry solving business critical problems.
+                    Apart from tech, I prefer spending my time sharing my knowledge and educating unprivileged people. I am getting started with contributing to open source ecosystem.</p>
                     </div>
                 </div>
                 </div>
@@ -48,7 +49,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>FUNCTIONAL EXPERTIES</h3>
-                    <p>Experience Scrum master, guided junior engineers, experiance of data intensive applications</p>
+                    <p>Experience Scrum master, leading junior engineers, experience of data intensive applications
+                    </p>
                 </div>
                 </div>
             </div>
@@ -59,7 +61,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>ALL AROUND PRESENCE</h3>
-                    <p>I have been part of complete lifecycle, be it customer meetings, planning, development or maintenance.</p>
+                    <p>I have been part of complete lifecycle, be it planning, development, KTLO, training consulting staff</p>
                 </div>
                 </div>
             </div>
